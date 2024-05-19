@@ -49,7 +49,7 @@ import javax.sound.sampled.UnsupportedAudioFileException;
  *
  * @author bartek
  */
-public class Music_Soc extends javax.swing.JFrame {
+public class SocialNetwork extends javax.swing.JFrame {
 
     //Variables
     int userID;
